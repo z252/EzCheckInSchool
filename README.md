@@ -23,7 +23,7 @@
 
 使用Github登入[Server酱](http://sc.ftqq.com/)并微信绑定以便可以收到结果推送
 
-接下来你需要设置`Secert` Fork的项目->Settings->Secert->New Secert
+接下来你需要设置`Secert` Fork的项目-Settings->Secert->New Secert
 
 打开完美校园健康打卡，参照打卡页面上方个人信息及如下表格设置
 
